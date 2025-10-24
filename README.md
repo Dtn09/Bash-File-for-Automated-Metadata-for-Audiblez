@@ -314,4 +314,4 @@ With M4 MacBook A book with ~450,000 characters takes approximately 2 hours and 
 
 ---
 
-**Created by the Tommy with ❤️**
+**Created by Tommy with ❤️**
