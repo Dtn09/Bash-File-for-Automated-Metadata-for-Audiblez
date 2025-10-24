@@ -3,7 +3,7 @@
 ## Features:
 
 - ✅ Automatic metadata extraction from EPUB
-- ✅ Cover art inclusion
+- ✅ Include the book cover art
 - ✅ Proper chapter detection
 - ✅ AAC encoding at 64kbps (good quality, small file size)
 - ✅ Apple Books compatible format
